@@ -1,6 +1,6 @@
 # Image 2024 ISIM Project 
 ## Authors
-Theo Crepin - Vasco Sampaio
+Theo Crepin
 
 ## Description
 Mini game using raycasting and floorcasting
