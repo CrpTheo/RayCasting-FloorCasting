@@ -1,4 +1,4 @@
-# Image 2024 ISIM Project 
+# Image 2024 ISIM Project - RayCaster and FloorCaster in Python
 ## Authors
 Theo Crepin
 
